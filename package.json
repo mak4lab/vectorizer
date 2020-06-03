@@ -1,6 +1,6 @@
 {
   "name": "vectorizer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert an Array of Strings to an Array of Numbers with an Index and vice versa",
   "main": "index.js",
   "scripts": {
