@@ -1,0 +1,32 @@
+{
+  "name": "vectorizer",
+  "version": "0.0.0",
+  "description": "Convert an Array of Strings to an Array of Numbers with an Index and vice versa",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mak4Lab/vectorizer.git"
+  },
+  "keywords": [
+    "nlp",
+    "vectorize",
+    "vector",
+    "index",
+    "text"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/Mak4Lab/vectorizer/issues"
+  },
+  "homepage": "https://github.com/Mak4Lab/vectorizer#readme",
+  "dependencies": {
+    "lodash.countby": "^4.6.0"
+  },
+  "devDependencies": {
+    "ava": "^3.8.2"
+  }
+}
